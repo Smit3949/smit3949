@@ -4,11 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=smit3949&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Nest, Typescript, GraphQL, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/smit3949?tab=repositories)
-
-- 💬 Ask me about **Javascript** & **Node**
 
 - 📫 How to reach me **smit3949@gmail.com**
 
