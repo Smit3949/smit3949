@@ -7,8 +7,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/smit3949">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smit3949&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smit3949&" alt="smit3949" />
-</a>
+	<a href="https://github.com/smit3949">
+	  <p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smit3949&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></p>
+	  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smit3949&" alt="smit3949" /></p>
+	</a>
 </p>
